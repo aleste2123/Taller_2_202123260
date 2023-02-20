@@ -26,7 +26,6 @@ public class Aplicacion {
         // Creamos el objeto Restaurante y cargamos la información desde los archivos
         restaurante = new Restaurante();
         cargarInformacionRestaurante();
-        System.out.println("cfgvbhjn");
         mostrarMenu();
     }
 
